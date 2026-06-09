@@ -1,0 +1,22 @@
+project_id = "kviszzankksrkdnrwppa"
+
+[functions.google-reviews]
+verify_jwt = false
+
+[functions.get-mapbox-token]
+verify_jwt = false
+
+[functions.send-notification]
+verify_jwt = false
+
+[functions.generate-survey-pdf]
+verify_jwt = false
+
+[functions.view-survey-pdf]
+verify_jwt = false
+
+[functions.get-quote-data]
+verify_jwt = false
+
+[functions.accept-quote]
+verify_jwt = false
